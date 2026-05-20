@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Open Lab Hardware
 
 Open-source 3D-printable lab equipment and accessories for life science research. Affordable, functional alternatives to commercial lab plastics — designed to be printed on any standard FDM printer.
@@ -13,13 +12,13 @@ This is a modified version of the [Falcoponics](https://www.printables.com/model
 
 **Supplies needed:**
 - 50 mL Falcon tubes
-- [1" polyurethane sponges](https://www.amazon.de/dp/B0B7VR9NTF) — cut to fit the collar opening
+- [1" polyurethane sponges](https://www.amazon.de/dp/B0B7VR9NTF)
 - [Moisture wicks](https://www.amazon.de/dp/B0C7B9RGJK) — use the pre-cut wicks from the set, or cut small strips from the mat
 
 **File:** `Falcon 50 ml collar and lid.stl`
 
- ![Hydroculture Collar](falcon collar and lid expanded.png)
- ![Hydroculture Collar](falcon collar and lid assembled.png)
+![Hydroculture Collar - Expanded](images/falcon%20collar%20and%20lid%20expanded.png)
+![Hydroculture Collar - Assembled](images/falcon%20collar%20and%20lid%20assembled.png)
 
 ---
 
@@ -38,8 +37,8 @@ Inspired by [this Falcon tube rack on MakerWorld](https://makerworld.com/de/mode
 
 **File:** `laboratory_holders_combined.stl`
 
- ![Combined Rack](model 15 and 50 ml falcon and eppi holder.png)
- ![Combined Rack](model 15 ml falcon and eppi holder.png)
+![Combined Rack - Side A](images/model%2015%20and%2050%20ml%20falcon%20and%20eppi%20holder.png)
+![Combined Rack - Side B](images/model%2015%20ml%20falcon%20and%20eppi%20holder.png)
 
 ---
 
@@ -49,11 +48,12 @@ A vertical standing holder for pipette tip attachment boxes. Stores tip boxes in
 
 **File:** `pipette_holder.stl`
 
- ![Pipette Tip Tower](pipette_tower.png) 
+![Pipette Tip Tower](images/pipette_tower.png)
 
 Designed for these holders but should work for others as well:
- ![Pipette Tip Tower](pipette wall holder 1.webp) 
- ![Pipette Tip Tower](pipette wall holder 2.webp) 
+
+![Pipette Wall Holder](images/pipette%20wall%20holder%201.webp)
+![Pipette Wall Holder](images/pipette%20wall%20holder%202.webp) 
 ---
 
 ## Printing guidelines
