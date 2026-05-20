@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Lab Hardware
 
 Open-source 3D-printable lab equipment and accessories for life science research. Affordable, functional alternatives to commercial lab plastics — designed to be printed on any standard FDM printer.
@@ -72,3 +73,6 @@ If you have ideas for lab equipment that should exist but doesn't, or improvemen
 ## License
 
 GPL-3.0
+=======
+<img width="531" height="709" alt="grafik" src="https://github.com/user-attachments/assets/bed1d0cb-2b61-4e78-845d-5e1b531aeae6" />
+>>>>>>> 84cd5a88b9d65ddf47c740f83bf719414112f026
