@@ -18,7 +18,8 @@ This is a modified version of the [Falcoponics](https://www.printables.com/model
 
 **File:** `Falcon 50 ml collar and lid.stl`
 
-<!-- ![Hydroculture Collar](images/hydroculture_collar.png) -->
+ ![Hydroculture Collar](falcon collar and lid expanded.png)
+ ![Hydroculture Collar](falcon collar and lid assembled.png)
 
 ---
 
@@ -37,7 +38,8 @@ Inspired by [this Falcon tube rack on MakerWorld](https://makerworld.com/de/mode
 
 **File:** `laboratory_holders_combined.stl`
 
-<!-- ![Combined Rack](images/combined_rack.png) -->
+ ![Combined Rack](model 15 and 50 ml falcon and eppi holder.png)
+ ![Combined Rack](model 15 ml falcon and eppi holder.png)
 
 ---
 
@@ -47,8 +49,11 @@ A vertical standing holder for pipette tip attachment boxes. Stores tip boxes in
 
 **File:** `pipette_holder.stl`
 
-<!-- ![Pipette Tip Tower](images/pipette_tower.png) -->
+ ![Pipette Tip Tower](pipette_tower.png) 
 
+Designed for these holders but should work for others as well:
+ ![Pipette Tip Tower](pipette wall holder 1.webp) 
+ ![Pipette Tip Tower](pipette wall holder 2.webp) 
 ---
 
 ## Printing guidelines
@@ -59,12 +64,6 @@ A vertical standing holder for pipette tip attachment boxes. Stores tip boxes in
 - **Layer height:** 0.2 mm for functional parts, 0.12 mm for tight-fit collars
 - **Supports:** noted per model where needed
 
-## Images
-
-Once images are added to the `images/` folder, they will be displayed above for each model. To add images:
-1. Take a photo or screenshot of each model
-2. Save them in the `images/` folder as `hydroculture_collar.png`, `combined_rack.png`, and `pipette_tower.png`
-3. Remove the `<!-- -->` comment markers around the image lines in this README
 
 ## Contributing
 
@@ -74,5 +73,4 @@ If you have ideas for lab equipment that should exist but doesn't, or improvemen
 
 GPL-3.0
 =======
-<img width="531" height="709" alt="grafik" src="https://github.com/user-attachments/assets/bed1d0cb-2b61-4e78-845d-5e1b531aeae6" />
->>>>>>> 84cd5a88b9d65ddf47c740f83bf719414112f026
+
